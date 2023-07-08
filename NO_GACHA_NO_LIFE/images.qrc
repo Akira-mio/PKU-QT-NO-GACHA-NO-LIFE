@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>npy.jpeg</file>
+        <file>chat.jpg</file>
+    </qresource>
+</RCC>
