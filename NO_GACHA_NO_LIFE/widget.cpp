@@ -81,7 +81,10 @@ void Widget::updateUI(Gamer*p){
     ui->LBincome_->setText(QString::number(p->player->income));
     ui->LBmove_->setText(QString::number(p->player->move));
     ui->LBcurrent_day_->setText(QString::number(p->date));
-
+    if (my_player->player->move>0){
+        ui->BTNgacha_1->show();
+        ui->BTNgacha_5->show();
+    }
 }
 
 void Widget::on_BTNgacha_1_clicked()
