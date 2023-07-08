@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>This game.mp3</file>
+        <file>dingdong.wav</file>
+        <file>inform.wav</file>
+        <file>background.wav</file>
+        <file>buy.wav</file>
+        <file>starsky.mp3</file>
+        <file>inform.mp3</file>
+    </qresource>
+</RCC>
