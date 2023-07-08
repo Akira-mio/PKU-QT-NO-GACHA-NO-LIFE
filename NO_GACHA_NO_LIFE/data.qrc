@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>data/card1.txt</file>
-        <file>data/mycard.txt</file>
-        <file>data/news1.txt</file>
-        <file>data/savedata.txt</file>
-    </qresource>
-</RCC>
